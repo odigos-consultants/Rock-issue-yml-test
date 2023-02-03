@@ -19,8 +19,7 @@ body:
         - Try to reproduce the problem on a fresh install or on the [demo site](https://rock.rocksolidchurchdemo.com/).
       options:
         - label: Check this box only after you have successfully completed both the above tasks
-    validations:
-      required: true
+          required: true
   - type: textarea
     id: summary
     attributes:
