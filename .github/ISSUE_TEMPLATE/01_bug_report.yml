@@ -62,7 +62,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img src="../Images/chrome_HX2nc0dL4h.png" alt="Rock Information" style="float: left; margin-right: 10px;" />
+        <img src="https://github.com/odigos-consultants/Rock-issue-yml-test/blob/develop/Images/chrome_HX2nc0dL4h.png" alt="Rock Information" style="float: left; margin-right: 10px;" />
   - type: input
     id: version
     attributes:
