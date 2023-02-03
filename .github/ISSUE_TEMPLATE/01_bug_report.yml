@@ -62,7 +62,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img src="./Images/chrome_HX2nc0dL4h.png" alt="Game Play" style="float: left; margin-right: 10px;" />
+        <img src="../Images/chrome_HX2nc0dL4h.png" alt="Rock Information" style="float: left; margin-right: 10px;" />
   - type: input
     id: version
     attributes:
